@@ -1,4 +1,4 @@
-# Pharma-Prediction-App
+# Pharma-Sales-Analysis-and-Forecasting
 
 The Pharma-Prediction App is a machine learning application deployed using Python-Flask, and the 2020 Neumorphism UI. 
 
